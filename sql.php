@@ -1,6 +1,6 @@
 <?php
-$host = '192.168.0.118';
-$user = 'root';
+$host = 'localhost';
+$user = 'harshit';
 $password = 'redhat';
 
 //create mysql connection
